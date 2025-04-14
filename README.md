@@ -46,7 +46,7 @@ As part of the initial phase, this project aims to address the following challen
 We welcome contributions from everyone:
 
 - **Have a solution but can't code?**  
-  If you have a solid solution or idea—even if you're not comfortable coding—you can send your contribution to **gunithyadav4@gmail.com** with the subject line `TIME-COMPLEXITY-ANALYZER`.
+  If you have a solid solution or idea—even if you're not comfortable coding—you can send your contribution to **gunithyadav4@gmail.com** and **nobelnoah.n@gmail.com** with the subject line `TIME-COMPLEXITY-ANALYZER`.
 
 - **Skilled in Python?**  
   You're invited to contribute your skills to improve the code, fix bugs, or add new features. Open an issue or submit a pull request to share your enhancements.
